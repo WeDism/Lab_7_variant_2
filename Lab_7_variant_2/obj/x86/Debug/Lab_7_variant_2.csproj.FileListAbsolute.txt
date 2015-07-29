@@ -1,0 +1,5 @@
+C:\Users\2882_tsukanov\Documents\Visual Studio 2010\Projects\Lab_7_variant_2\Lab_7_variant_2\bin\Debug\Lab_7_variant_2.exe
+C:\Users\2882_tsukanov\Documents\Visual Studio 2010\Projects\Lab_7_variant_2\Lab_7_variant_2\bin\Debug\Lab_7_variant_2.pdb
+C:\Users\2882_tsukanov\Documents\Visual Studio 2010\Projects\Lab_7_variant_2\Lab_7_variant_2\obj\x86\Debug\Lab_7_variant_2.exe
+C:\Users\2882_tsukanov\Documents\Visual Studio 2010\Projects\Lab_7_variant_2\Lab_7_variant_2\obj\x86\Debug\Lab_7_variant_2.pdb
+C:\Users\2882_tsukanov\Documents\Visual Studio 2010\Projects\Lab_7_variant_2\Lab_7_variant_2\obj\x86\Debug\Lab_7_variant_2.csprojResolveAssemblyReference.cache
